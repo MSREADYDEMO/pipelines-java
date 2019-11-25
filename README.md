@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/examaz400/az400-proj1/_apis/build/status/az400-proj1-CI?branchName=master)](https://dev.azure.com/examaz400/az400-proj1/_build/latest?definitionId=2&branchName=master)
+
 
 # Contributing
 
